@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7YVA2z5aTGPyAS7rFVu14RjcKzTGAdkWwrz7LY8SibQ=",
+  "Source": "TennisLeagueApi",
+  "BasePath": "_content/TennisLeagueApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

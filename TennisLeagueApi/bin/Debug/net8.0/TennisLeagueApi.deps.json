@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TennisLeagueApi/1.0.0": {
+        "dependencies": {
+          "TennisLeagueMongoDb": "1.0.0"
+        },
+        "runtime": {
+          "TennisLeagueApi.dll": {}
+        }
+      },
+      "TennisLeagueMongoDb/1.0.0": {
+        "runtime": {
+          "TennisLeagueMongoDb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TennisLeagueApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TennisLeagueMongoDb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

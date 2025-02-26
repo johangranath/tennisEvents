@@ -1,0 +1,12 @@
+C:\samples\tennisEvents\TennisLeagueMongoDb\bin\Debug\net8.0\TennisLeagueMongoDb.deps.json
+C:\samples\tennisEvents\TennisLeagueMongoDb\bin\Debug\net8.0\TennisLeagueMongoDb.dll
+C:\samples\tennisEvents\TennisLeagueMongoDb\bin\Debug\net8.0\TennisLeagueMongoDb.pdb
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.AssemblyInfoInputs.cache
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.AssemblyInfo.cs
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.csproj.CoreCompileInputs.cache
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.sourcelink.json
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.dll
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\refint\TennisLeagueMongoDb.dll
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\TennisLeagueMongoDb.pdb
+C:\samples\tennisEvents\TennisLeagueMongoDb\obj\Debug\net8.0\ref\TennisLeagueMongoDb.dll
